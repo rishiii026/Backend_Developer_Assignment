@@ -1,0 +1,8 @@
+Subject: Assignment Submission 
+
+Hello Sir/Ma'am , 
+ 
+Please find attached 4 Solved Problems ( 2 Using Template 1 (Trigonometry) and 2 using Template 2 (Compound Interest) , completed strictly within the supplied HTML / CSS templates. For Each Problem I provided (1) A short Symbolic proof . (2) A numeric verification using non-trivial integer triples and (3) a highlighted final answer. I have not modified layout or styling , only replaced template text content. I am excited about the internship and would like to implement the automated mapping ( LLM + templating ) to generate these files programmatically. Thank you for the opportunity.
+
+Regards
+Aniket Shrivastav
